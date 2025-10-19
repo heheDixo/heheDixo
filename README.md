@@ -19,7 +19,6 @@ Outside of tech, you’ll usually find me swimming, vibing to music, or playing 
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 
-<!--
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=django,flask" />
@@ -29,7 +28,6 @@ Outside of tech, you’ll usually find me swimming, vibing to music, or playing 
 
 <!-- AI / ML / Data -->
 <img src="https://skillicons.dev/icons?i=anaconda,python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,matplotlib,seaborn,fastapi,streamlit,docker,git,vscode,linux" />
-
 
 <!-- DevOps / Infra -->
 <img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkin" />
