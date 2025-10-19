@@ -27,13 +27,13 @@ Outside of tech, you’ll usually find me swimming, vibing to music, or playing 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 <!-- AI / ML / Data -->
-<img src="https://skillicons.dev/icons?i=anaconda,python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,matplotlib,seaborn,fastapi,streamlit,docker,git,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=anaconda,python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,vscode" />
 
 <!-- DevOps / Infra -->
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkin" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 
 <!-- Tools & Utilities -->
-<img src="https://skillicons.dev/icons?i=git,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 
 </p>
 
