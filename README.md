@@ -1,16 +1,41 @@
-## Hi there 👋
+![gitartwork](gitartwork.svg)
+
+
+Hey , I’m Rahul
+
+Well, I’m a Computer Science student passionate about Artificial Intelligence and Machine Learning Engineering.
+
+Outside of tech, you’ll usually find me swimming, vibing to music, or playing games to recharge my mind.
+
+
+<div align="center">
+  <h1>
+    Tech Stack
+  </h1>
+</div>
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 
 <!--
-**heheDixo/heheDixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=django,flask" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Databases & ORMs -->
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<!-- AI / ML / Data -->
+<img src="https://skillicons.dev/icons?i=anaconda,python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,matplotlib,seaborn,fastapi,streamlit,docker,git,vscode,linux" />
+
+
+<!-- DevOps / Infra -->
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,jenkin" />
+
+<!-- Tools & Utilities -->
+<img src="https://skillicons.dev/icons?i=git,linux,ubuntu" />
+
+</p>
+
